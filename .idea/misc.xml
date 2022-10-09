@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1705" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/bootom_sheet.xml" value="0.197" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/button_add.xml" value="0.213" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/button_style.xml" value="0.197" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/button_style_login.xml" value="0.213" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_add.xml" value="0.213" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_back__1_.xml" value="0.213" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.213" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.172" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.213" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_choose_one.xml" value="0.197" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_choose_three.xml" value="0.197" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_choose_two.xml" value="0.197" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_ellipse_479.xml" value="0.172" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_filter.xml" value="0.213" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_filter_6540.xml" value="0.172" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_filter_6548.xml" value="0.172" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1705" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_minus_sign_svgrepo_com.xml" value="0.213" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_plus_sign_svgrepo_com.xml" value="0.213" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_remove.xml" value="0.213" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_save.xml" value="0.197" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_star.xml" value="0.213" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/iv_add.xml" value="0.213" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/pro_img.xml" value="0.1705" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/remove.xml" value="0.213" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/round_left.xml" value="0.19" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/round_right.xml" value="0.213" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/style_img.xml" value="0.197" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_filiter.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_prefrence.xml" value="0.264" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/layout/bootom_sheet.xml" value="0.20778110303548525" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/layout/frtr.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/layout/item_row.xml" value="0.4" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/layout/jj.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/layout/round_right.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/10/AndroidStudioProjects/MyApplication/app/src/main/res/layout/text_item.xml" value="0.20778110303548525" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

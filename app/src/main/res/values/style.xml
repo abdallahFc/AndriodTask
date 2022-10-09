@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="pro_style">
+        <item name="cornerSize">12%</item>
+    </style>
+    <style name="pro">
+        <item name="cornerFamilyBottomLeft">rounded</item>
+        <item name="cornerSizeBottomLeft">12%</item>
+    </style>
+
+    <style name="button_style">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/button_style</item>
+        <item name="android:textColor">#EBECF0</item>
+    </style>
+
+    <style name="button_add">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/button_add</item>
+        <item name="backgroundColor">@color/white</item>
+        <item name="android:textColor">#EBECF0</item>
+    </style>
+    <style name="bottomSheet" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/button_sheet_style</item>
+    </style>
+    <style name="button_sheet_style" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@drawable/bootom_sheet</item>
+    </style>
+</resources>
